@@ -7,3 +7,5 @@ this repository contains my assignments
 
 [assignment 4](https://github.com/thomasheijligers/assignments/blob/master/assignment4.ipynb)
 
+[assignment 6](https://github.com/thomasheijligers/assignments/blob/master/Graded_assignment1.ipynb)
+
