@@ -9,3 +9,4 @@ this repository contains my assignments
 
 [assignment 6](https://github.com/thomasheijligers/assignments/blob/master/Graded_assignment1.ipynb)
 
+[assignment 7](https://github.com/thomasheijligers/assignments/blob/master/Graded_assignment_2%20(1).ipynb)
