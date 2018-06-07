@@ -10,3 +10,7 @@ this repository contains my assignments
 [assignment 6](https://github.com/thomasheijligers/assignments/blob/master/Graded_assignment1%20(1).ipynb)
 
 [assignment 7](https://github.com/thomasheijligers/assignments/blob/master/Graded_assignment_2%20(1).ipynb)
+
+[Exam_june_7_2018](https://github.com/thomasheijligers/assignments/blob/master/exam_june_7_2018%20(1).ipynb)
+
+[Exam_student](https://github.com/thomasheijligers/assignments/blob/master/Exam_student%20(2).ipynb)
