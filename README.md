@@ -14,3 +14,6 @@ this repository contains my assignments
 [Exam_june_7_2018](https://github.com/thomasheijligers/assignments/blob/master/exam_june_7_2018%20(1).ipynb)
 
 [Exam_student](https://github.com/thomasheijligers/assignments/blob/master/Exam_student%20(2).ipynb)
+
+[Final R Assignment] (https://github.com/thomasheijligers/assignments/blob/master/exam_1_student.ipynb)
+
